@@ -1,0 +1,82 @@
+/* resetar as margins e paddings */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* FIM resetar as margins e paddings */
+
+article {
+  max-width: 770px;
+  margin: 0 auto 0 auto;
+  border: 30px solid transparent;
+  border-image: url("../imagens/bordas-com-folhas.png") 380 round;
+  border-width: 100%;
+}
+
+body {
+  background: #B4D55E;
+  background-image: url("../imagens/fazenda.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover
+}
+
+footer {
+  background-color: #879D63;
+  text-align: center;
+  margin-top: 9%;
+  font-family: tahoma, arial, sans-serif;
+  font-size: 14px;
+  border: 2px solid #374C13;
+}
+
+header {
+  text-align: center;
+}
+
+.capa-responsiva {
+  max-width: 150px;
+  width: 100%;
+}
+
+.fonte-corpo {
+  font-family: Verdana, Arial, Tahoma, sans-serif;
+  font-size: 15px;
+}
+
+.fonte-titulo {
+  font-family: Verdana, Arial, Tahoma, sans-serif;
+  font-size: 18px;
+  color: #84512D;
+  text-align: center;
+  font-weight: bolder;
+}
+
+#container {
+  max-width: 1920px;
+  width: 100%;
+}
+
+#nota {
+  max-width: 328px;
+  width: 100%;
+  height: 162px;
+  margin: 0 auto 0 auto;
+  background-image: url("../imagens/recepção.gif");
+  background-repeat: no-repeat;
+}
+
+#tabela-harvest {
+  margin: 0 auto 0 auto;
+  text-align: center;
+  display: block;
+  max-width: 600px;
+  width: 100%;
+}
+
+#tabela-harvest-responsivo {
+  display: none;
+}

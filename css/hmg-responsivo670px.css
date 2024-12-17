@@ -1,0 +1,20 @@
+#nota {
+  max-width: 670px;
+  width: 100%;
+  height: 122px;
+  margin: 0 auto 0 auto;
+  background-image: url("../imagens/recepção.gif");
+  background-repeat: no-repeat;
+  background-size: 670px;
+}
+
+#tabela-harvest {
+  display: none;
+}
+
+#tabela-harvest-responsivo {
+  display: block;
+  max-width: 300px;
+  width: 100%;
+  margin: 0 auto 0 auto;
+}
