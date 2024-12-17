@@ -1,0 +1,158 @@
+/* reseta as margins e paddings */
+
+* {
+  margin: 0;
+  paddging: 0;
+}
+/* FIM */
+
+a {
+  color: yellow;
+}
+
+article {
+  max-width: 595.8px;
+  width: 85%;
+  float: right;
+  background-color: #8D734D;
+  margin-top: -5px;
+  box-shadow: 1px 0 0 0 black,
+            0 1px 0 0 black,
+            1px 1px 0 0 black,
+            1px 0 0 0 black inset,
+            0 1px 0 0 black inset;
+}
+
+body {
+  background-color: #D2BC9C;
+}
+
+footer {
+  max-width: 700px;
+  width: 100%;
+  background-color: #5E4827;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  font-family: tahoma, arial, sans-serif;
+  font-size: 14px;
+  color: white;
+  box-shadow: 1px 0 0 0 black,
+            0 1px 0 0 black,
+            1px 1px 0 0 black,
+            1px 0 0 0 black inset,
+            0 1px 0 0 black inset;
+  clear: both;
+}
+
+header {
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+iframe {
+  margin: 0 auto 0 auto;
+  text-align: right;
+}
+
+section {
+  max-width: 700px;
+  width: 100%;
+  background-color: #281E01;
+  text-align: right;
+  margin-top: -5px;
+}
+
+.fonte-corpo {
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 14px;
+}
+
+.fonte-titulo {
+  max-width: 595.8px;
+  width: 100%;
+  font-family: Tahoma, Arial, sans-serif;
+  font-size: 16px;
+  color: #92A153;
+  background-color: #5E4827;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.vencendo ul {
+  background-color: #5F3416;
+  color: white;
+}
+
+.vencendo li {
+  border-style: none;
+  text-align: left;
+}
+
+#banner {
+  max-width: 700px;
+  width: 100%;
+}
+
+#container {
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto 0 auto;
+}
+
+#portal {
+  max-width: 700px;
+  width: 100%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  background-color: #281E01;
+}
+
+@media screen and (max-width: 514px) {
+  nav li {
+    font-size: 2.9vw;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  nav li {
+    font-size: 2.8vw;
+  }
+}
+
+/* MENU */
+li {
+  font-family: Verdana, Arial, sans-serif;
+  font-size: 15px;
+  margin-left: -39px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+li a {
+  color: #CDB797;
+  text-decoration: none;
+  display: block;
+}
+
+li a:hover {
+  background-color: #947B58;
+  display: block;
+}
+
+nav {
+  max-width: 105px;
+  width: 15%;
+  padding: 0;
+  margin: 0;
+  float: left;
+}
+
+ul {
+  list-style: none;
+  background: #665132;
+  margin-top: -5px;
+}
+
+/* FIM  MENU */

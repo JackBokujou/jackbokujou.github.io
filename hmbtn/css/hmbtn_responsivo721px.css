@@ -1,0 +1,362 @@
+/* CSS Harvest Moon Back to Nature - Guia */
+/*************************
+*
+*	Reseta as margens e paddings
+*
+**************************/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*************************
+*
+*	O Website
+*
+**************************/
+
+header {
+	width: 100%;
+	max-width: 721px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	background-color: #493A3B;
+}
+
+nav {
+	width: 100%;
+	max-width: 721px;
+	height: 247px; /* 610 */
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	position: relative;
+	background-image: url(imagens/menubg_tree721px.jpeg);
+	background-repeat: no-repeat;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+
+
+article {
+	width: 100%;   /* 88.681116666666664% */
+  max-width: 721px; /* 1758 */
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	background-color: #B79670;
+}
+
+footer {
+	width: 100%;
+	max-width: 1920px;
+	height: 68px; /* 97px altura original */
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	clear: left;
+	background-image: url(imagens/rodape2.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100% 68px;
+}
+
+input {
+	max-width: 721px;
+	width: 100%;
+}
+
+div.rolar {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.rolar a {
+    display: inline-block;
+    text-align: center;
+    padding: 18px;
+    text-decoration: none;
+}
+
+#banner {
+	display: none;
+}
+
+#aparecer_mapa {
+	display: none;
+}
+
+#banner-721 {
+	display: block;
+	max-width: 721px;
+	width: 100%;
+}
+
+#imagem_capa {
+	max-width: 1090px;
+	width: 100%;
+}
+
+#containers {
+	width: 100%;
+	max-width: 721px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	background-color: #493A3B;
+}
+
+#formularioharvestmoonbtn {
+	max-width: 335px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Tahoma, Arial;
+	font-size: 14px;
+}
+
+#menu1 {
+	background-image: url(imagens/menu1_bg.png);
+	width: 77px;
+	height: 13px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+#menu1 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+#menu1 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+#tabela-doar {
+    margin-right: auto;
+		margin-left: auto;
+    width: 100%;
+		max-width: 150px;
+}
+
+#tabela-doar input {
+    margin-right: auto;
+		margin-left: auto;
+    width: 100%;
+		max-width: 100px;
+		height: 40px;
+}
+
+.imagem_470px {
+	display: none;
+}
+
+
+.aparecer_tabela {
+	display: none;
+}
+
+.desaparecer_tabela {
+	display: block;
+}
+
+.imagem_470px {
+	display: none;
+}
+
+.tabela_sugestoes {
+	max-width: 721px;
+	width: 100%;
+}
+
+.estiloformulario_campo {
+	max-width: 721px;
+	width: 100%;
+}
+
+.estiloformulario {
+	max-width: 721px;
+	width: 100%;
+}
+
+.borda_tabela {
+	background-image: url(imagens/Msgbox_HMBTN.png);
+	background-repeat: no-repeat;
+	height: 109px;
+	padding-left: 12px;
+	background-size: 1758px 300px;
+}
+
+.imagem-parceiros {
+	max-width: 95px;
+	width: 100%;
+}
+
+#tabela-parceiros {
+    margin-right: auto;
+		margin-left: auto;
+    width: 100%;
+		max-width: 95px;
+		text-align: center;
+		font-family: Arial;
+		font-size: 12px;
+		color: #006600;
+		margin-top: -170px;
+}
+
+/*--------------------------
+------------MENU------------*/
+
+.menu2 {
+	background-image: url(imagens/menu2_bg.png);
+	width: 77px;
+	height: 81px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+	float: left;
+}
+
+.imagem_responsivo {
+	max-width: 290px;
+	width: 100%;
+}
+
+.flexslider .slides img {
+  width: 100%;
+  max-width: 75px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.tabela_titulo_wrapper {
+	max-width: 721px; /* 1400 */
+	width: 100%; /* 72.91666666666667% */
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+	overflow: auto;
+    white-space: nowrap;
+}
+
+.tabela_titulo_normal {
+	max-width: 721px; /* 1400 */
+	width: 100%; /* 72.91666666666667% */
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+.tabela_titulo_normal2 {
+	max-width: 1400px; /* 1400 */
+	width: 100%; /* 72.91666666666667% */
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+.menu2 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu2 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.menu3 {
+	background-image: url(imagens/menu3_bg.png);
+	width: 77px;
+	height: 120px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.menu3 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu3 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.menu4 {
+	background-image: url(imagens/menu4_bg.png);
+	width: 77px;
+	height: 81px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: -11px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+	float: left;
+}
+
+.menu4 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu4 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.menu5 {
+	background-image: url(imagens/menu5_bg.png);
+	width: 77px;
+	height: 51px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.menu5 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu5 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}

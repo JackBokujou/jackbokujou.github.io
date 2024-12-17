@@ -1,0 +1,719 @@
+/* CSS Harvest Moon Back to Nature - Guia */
+/*************************
+*
+*	Reseta as margens e paddings
+*
+**************************/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*************************
+*
+*	O Website
+*
+**************************/
+
+@font-face {
+	font-family: Funhouse;
+	src: url('../fonts/Funhouse.ttf');
+}
+
+div.flexslider.rolar {
+  overflow: auto;
+  white-space: nowrap;
+	max-width: 1700px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.flexslider.rolar a {
+  display: inline-block;
+  text-align: center;
+  padding-right: 18px; /* 18px */
+  text-decoration: none;
+}
+
+ul {
+	list-style: none;
+	text-align: center;
+}
+
+th {
+	background-color: #D7A157;
+}
+
+header {
+	width: 100%;
+	max-width: 1920px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+nav {
+	width: 10.8125%;
+	max-width: 150px;
+	height: 910px;	/* 610 */
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	float: left;
+	position: absolute;
+	background-image: url(imagens/menubg_tree.jpeg);
+	background-repeat: no-repeat;
+	-moz-background-size: 100% 100%;
+	-webkit-background-size: 100% 100%;
+	background-size: 100% 100%;
+}
+
+
+article {
+	width: 88.771116666666664%;   /* 88.681116666666664% */
+  max-width: 1758px; /* 1758 */
+	margin-bottom: 0px;
+	margin-left: 11%;
+	margin-right: 0px;
+	margin-top: 0px;
+	float: left;
+	background-color: #B79670;
+}
+
+footer {
+	width: 100%;
+	max-width: 1920px;
+	height: 68px; /* 97px altura original */
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	clear: left;
+	background-image: url(imagens/rodape2.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100% 68px;
+}
+
+.imagem_470px {
+	display: none;
+}
+
+.aparecer_tabela {
+	display: none;
+}
+
+.desaparecer_tabela {
+	display: block;
+}
+
+.tabela_fadiga1 {
+	background-color: green;
+}
+
+.tabela_fadiga2 {
+	background-color: #6F90A2;
+}
+
+.font_subtitulo {
+	font-family: Arial;
+	font-size: 14px;
+}
+
+.imagem_responsivo_staminaefatiga {
+	max-width: 75px;
+	width: 100%;
+}
+
+.imagem_garotas {
+	max-width: 150px;
+	height: 150px;
+	width: 100%;
+}
+
+.tabela_titulo_wrapper {
+	max-width: 1400px; /* 1400 */
+	width: 80%; /* 72.91666666666667% */
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+	overflow: auto;
+    white-space: nowrap;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.font_duendes_cor {
+	color: #FFAC3D;
+}
+
+.tabela_faces_personagens {
+	max-width: 1400px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	padding-left: 10%;
+	padding-right: 10%;
+	text-align: center;
+}
+.tabela_faces_personagens a {
+	font-size: 13px;
+}
+
+.estiloformulario {
+	background-color: #D7A157;
+	width: 243px;
+	border: 1px solid #806115;
+}
+
+.estiloformulario_campo {
+	background-color: #D4B66A;
+	width: 243px;
+	border: 1px solid #806115;
+}
+
+.tabela_formulario{
+	max-width: 1400px;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #D4A06A;
+	border: 3px solid #D4B66A;
+}
+
+.click-to-top {
+	padding-top: 100%;
+}
+
+.tabela_sugestoes {
+	background: #B38C56;
+	max-width: 1400px;
+	width: 100%;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+}
+
+.tabelabackground {
+	height: 210px;
+}
+
+.tabela_titulo_normal {
+	max-width: 1400px; /* 1400 */
+	width: 80%; /* 72.91666666666667% */
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+.tabela_titulo_normal2 {
+	max-width: 1400px; /* 1400 */
+	width: 80%; /* 72.91666666666667% */
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+.tabela_titulo_normal3 {
+	max-width: 1400px; /* 1400 */
+	width: 80%; /* 72.91666666666667% */
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+.font_titulo_tabela_centralizado {
+	text-align: left;
+	font-family: Funhouse;
+	font-size: 29px;
+}
+
+.tabela_titulo_receita {
+	max-width: 900px;
+	width: 46.875%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+.tabela_titulo_receita2 {
+	max-width: 900px;
+	width: 46.875%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+
+}
+
+.tabela_titulo_receita3 {
+	max-width: 900px;
+	width: 46.875%;
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+
+.tabela_acoes {
+	max-width: 650px;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border: 4px solid #B38C56;
+}
+
+.largura_coluna_texto {
+	width: 490px;
+}
+
+.largura_coluna_imagem {
+	width: 290px;
+}
+
+.alinhar_texto {
+	text-align: top;
+	height: 200px;
+	max-width: 550px;
+	width: 100%;
+}
+
+.tabela_titulo_normal2 td {
+	color: white;
+}
+
+.imagem_responsivo {
+	max-width: 290px;
+	width: 100%;
+}
+
+.font_branca {
+	color: white;
+}
+
+.imagem_responsivo_mapa {
+	max-width: 500px;
+	width: 100%;
+	margin: 0px auto 0px auto;
+	text-align: center;
+}
+
+.alinhar_imagem {
+	text-align: center;
+}
+
+.tabela_principal {
+	max-width: 1758px;
+	width: 100%;
+}
+
+.font_titulo_tabela1 {
+	font-family: Funhouse;
+	font-size: 29px;
+	text-align: center;
+}
+
+.font_titulo_tabela {
+	font-family: Funhouse;
+	font-size: 21px;
+	text-align: center;
+	color: black;
+}
+
+.font_corpo_tabela {
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+.borda_tabela {
+	background-image: url(imagens/Msgbox_HMBTN.png);
+	background-repeat: no-repeat;
+	height: 109px;
+	padding-left: 12px;
+	background-size: 1758px;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+}
+
+#tabela_nova {
+	max-width: 1400px; /* 1400 */
+	width: 80%; /* 72.91666666666667% */
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+	display: block;
+}
+
+#tabela_nova2 {
+	max-width: 1400px; /* 1400 */
+	width: 80%; /* 72.91666666666667% */
+	margin-left: auto;
+	margin-right: auto;
+	background: #B38C56;
+	font-family: Arial, Tahoma;
+	font-size: 13px;
+	letter-spacing: 0.10em;
+	display: none;
+}
+
+#aparecer_mapa {
+	display: none;
+}
+
+#formularioharvestmoonbtn {
+	max-width: 600px;
+	width: 31.25%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Tahoma, Arial;
+	font-size: 14px;
+}
+
+#festivaisprimavera {
+	background: green;
+}
+
+#mapa {
+	display: none;
+}
+
+#festivaisverao {
+	background: blue;
+}
+
+#festivaisoutono {
+	background: #FFC748;
+}
+
+#festivaisinverno {
+	background: #6F90A2;
+}
+
+#raposa {
+	padding-top: 1px;
+}
+
+#fundo_primavera {
+	background: #718C5B;
+}
+
+#fundo_verao {
+	background: #6E6EBD;
+}
+
+#fundo_outono {
+	background: #9F7614;
+}
+
+#fundo_inverno {
+	background: #35464F;
+}
+
+#galinha_imagem {
+	position: relative;
+	margin-left: 68%;
+	max-width: 89px;
+
+}
+
+#altura_artigo2 {
+	height: 610px;
+}
+
+#raposa {
+padding-top: 395px;
+}
+
+#menu240px {
+	display: none;
+}
+
+#imagem_capa {
+	max-width: 1090px;
+	width: 100%;
+}
+
+#banner-721 {
+	display: none;
+}
+
+#banner {
+	max-width: 1920px;
+	width: 100%;
+}
+
+#containers {
+	width: 100%;
+	max-width: 1920px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	background-color: #493A3B;
+}
+
+#tabela-doar {
+    margin-right: auto;
+	margin-left: auto;
+    width: 7.8125%;
+	max-width: 150px;
+}
+
+#marginTable {
+	margin-bottom: 730px;
+}
+
+/*--------------------------
+------------MENU------------
+ Alteracao no script de menu para fontes maiores ------*/
+
+#menu1 {
+	background-image: url(imagens/menu1_bg.png);
+	background-repeat: no-repeat;
+	width: 77px;
+	height: 13px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 12px;
+	background-size: 77px 43px;
+}
+
+#imagem_raposa {
+	max-width: 86px;
+	width: 100%;
+}
+
+#tabela-parceiros {
+    margin-right: auto;
+	margin-left: auto;
+    width: 7.8125%;
+	max-width: 95px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 12px;
+	color: #006600;
+}
+
+.menu2 {
+	background-image: url(imagens/menu2_bg.png);
+	background-repeat: no-repeat;
+	background-size: 77px 96px;
+	width: 77px;
+	height: 81px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+#menu1 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+#menu1 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.menu2 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu2 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.menu3 {
+	background-image: url(imagens/menu3_bg.png);
+	background-repeat: no-repeat;
+	width: 77px;
+	height: 120px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+	background-size: 77px 133px;
+}
+
+.menu3 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu3 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.menu4 {
+	background-image: url(imagens/menu4_bg.png);
+	background-repeat: no-repeat;
+	width: 77px;
+	height: 97px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+	background-size: 77px 97px;
+}
+
+.menu4 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu4 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.menu5 {
+	background-image: url(imagens/menu5_bg.png);
+	background-repeat: no-repeat;
+	width: 77px;
+	height: 70px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 15px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+	background-size: 77px 70px;
+}
+
+.menu6 {
+	background-image: url(imagens/menu5_bg.png);
+	background-repeat: no-repeat;
+	background-size: 99px 91px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	text-align: left;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.menu5 a {
+	color: #006600;
+	text-decoration: none;
+}
+
+.menu5 a:hover {
+	color: #33cc33;
+	text-decoration: underline;
+}
+
+.fonte_rodape {
+	color: white;
+	font-family: Verdana;
+	font-size: 17px;
+}
+
+a {
+	color: yellow;
+}
+
+.fonte_corpo {
+	font-family: Arial;
+	font-size: 13px;
+	color: white;
+}
+.fonte_corpo a {
+	color: yellow;
+}
+
+/*------------------*/
+/* Balão da Raposa */
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+/* Balão da Raposa texto */
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: #ffff66;
+    color: black;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+	margin-left: 50px; /* 70 */
+
+    /* Posição do texto do tooltip - veja exemplos abaixo! */
+    position: absolute;
+    z-index: 1;
+}
+
+/* Mostra o texto do tooltip quando o mouse passa por cima do caontainer do tooltip */
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+/* Tooltip Fade */
+.tooltip .tooltiptext {
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+    opacity: 1;
+}
+
+/* Balão da Raposa */
+div.click-to-top span {
+	display: none;
+	position: fixed;
+	bottom: 130px;
+	right: 5px;
+	background: #333;
+	color: black;
+	width: 120px;
+	border-radius: 6px;
+	background-color: #ffff66;
+}
+
+div.click-to-top:hover span {
+	display: block;
+	opacity: 1;
+}
