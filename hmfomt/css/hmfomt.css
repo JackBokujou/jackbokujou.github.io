@@ -44,11 +44,15 @@ header {
 
 .div-conteudo {
   background-color: yellow;
-  max-width: 800px;
+  max-width: 980px;
   font-family: Verdana, Arial, sans-serif;
   font-size: 13px;
   margin: 0 auto 0 auto;
   border: 2px solid black;
+}
+
+.div-conteudo img {
+  width: 100%;
 }
 
 .paragrafo {
@@ -56,14 +60,13 @@ header {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.portal {
-  max-width: 1920px;
-  width: 100%;
-  background-color: grey;
+.tabela-conteudo {
+  background-color: yellow;
+  max-width: 980px;
   font-family: Verdana, Arial, sans-serif;
-  color: white;
+  font-size: 13px;
   margin: 0 auto 0 auto;
-  text-align: center;
+  border: 2px solid black;
 }
 
 /* ID's */
@@ -88,7 +91,7 @@ header {
   background-color: rgb(63, 61, 61);
   max-width: 1920px;
   width: 100%;
-  height: 10px;
+  height: 20px;
 }
 
 /*****************MENU*************************/
@@ -97,7 +100,7 @@ header {
   float: left;
   max-width: 140px;
   width: 9.9011%;
-  background-image: linear-gradient(90deg, #F9B441, #D3A500);
+  background-image: linear-gradient(90deg, #aa7822, #aa8709);
 }
 
 .menu ul li {
@@ -107,7 +110,7 @@ header {
   border-right: 2px solid black;
   text-align: center;
   font-family: Verdana, Arial, sans-serif;
-  font-size: 1.1vw;
+  font-size: 1.0em;
 }
 
 .menu ul li a {
