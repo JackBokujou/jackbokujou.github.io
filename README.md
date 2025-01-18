@@ -25,4 +25,4 @@ Harvest Moon Save the Homeland (Eu realmente nunca joguei este Harvest!)
 eu tiro e traduzo as informacos que coloco nos guias/Websites
 daqui: https://fogu.com
 
-Se algu[em quiser e puder doar eu agradeceria muito mesmo! Obrigado mesmo!
+Se alguem quiser e puder doar eu agradeceria muito mesmo! Obrigado mesmo!
