@@ -16,11 +16,10 @@ hmsnes - Harvest Moon - Super Nintendo
 <br />
 <br />
 hmfomt - Harvest Moon Friends of Mineral Town - Game Boy Advance/GBA - -----Em Desenvolvimento-----
-
+<br />
+<br />
+Os seguintes guias ainda precisa comecar a desenvolver:
 <table style="table, td{background-color: blue; }">
-  <tr>
-  <td>Os seguintes guias ainda precisa comecar a desenvolver:</td>
-</tr>
   <tr>
     <td>Harvest Moon 2 - Game Boy Color</td>
   </tr>
