@@ -17,6 +17,15 @@ article {
   margin-right: 0px;
 }
 
+body {
+  background: #B4D55E;
+  background-image: linear-gradient(blue, yellow);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 footer {
   background-color: rgb(63, 61, 61);
   font-family: Verdana, Arial, Tahoma, sans-serif;
@@ -24,6 +33,7 @@ footer {
   clear: both;
   text-align: center;
   color: white;
+  margin-top: 42%;
 }
 
 footer a {
