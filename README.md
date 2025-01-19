@@ -27,7 +27,7 @@ Os seguintes guias ainda precisam comecar a desenvolver:
     <td>Harvest Moon 3 - Game Boy Color</td>
   </tr>
   <tr>
-    <td>Harvest Moon Save the Homeland (Eu realmente nunca joguei este Harvest!)</td>
+    <td>Harvest Moon Save the Homeland - PlayStation 2/PS2 (Eu realmente nunca joguei este Harvest!)</td>
   </tr>
 </table>
 
