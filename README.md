@@ -31,7 +31,14 @@ Os seguintes guias ainda precisam comecar a desenvolver:
   </tr>
 </table>
 
-eu tiro e traduzo as informacos que coloco nos guias/Websites
+Eu tiro e traduzo as informacos que coloco nos guias/Websites
 daqui: https://fogu.com
+
+As informacoes contidas no Website Guia de HMBTN foi tirada principalmente deste Website (mais ou menos uns 95%)e de outros como do ushi no tane e outras eu acrescentei:
+https://www.harvestmoonbacktonatureguide.com
+
+
+Link para o blog do portal dos Guias JackBokujou/HM Guia:
+https://harvestmoonguiablog.wordpress.com
 
 Se alguem quiser e puder doar eu agradeceria muito mesmo! Obrigado mesmo!
