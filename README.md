@@ -3,23 +3,23 @@
 
 Eu pretendia apenas ter o guia de HMBTN mas acabei fazendo mais guias e resolvi criar um portal para todos os quatro primeiros guias de Harvest Moon! O projeto esta pausado no momento mas os quatro guias que estao no portal estao completo! Pretendo dar um big boost no guia do Harvest Moon N64 acrescentando muitas coisas que tem no livro em PDF feito por um fa. Todos os sites sao responsivos apenas o do N64 precisa melhorar um pouco mas funciona muito bem em Smartphones,o que precisa melhorar sao as imagens apenas mas nada ultrapassa os limites da tela! envie comentarios construtivos e comentem!
 
-hm64 - Harvest Moon 64 - Nintendo 64
+hm64 - Harvest Moon 64 - Nintendo 64 - Guia Completo!
 <br />
 <br />
-hmbtn - Harvest Moon: Back to Nature - PlayStation 1/PSX/PSONE
+hmbtn - Harvest Moon: Back to Nature - PlayStation 1/PSX/PSONE - Guia Completo!
 <br />
 <br />
-hmgb - Harvest Moon Gb - Game Boy e Game Boy Color
+hmgb - Harvest Moon Gb - Game Boy e Game Boy Color - Guia Completo!
 <br />
 <br />
-hmsnes - Harvest Moon - Super Nintendo
+hmsnes - Harvest Moon - Super Nintendo - Guia Completo!
 <br />
 <br />
 hmfomt - Harvest Moon Friends of Mineral Town - Game Boy Advance/GBA - -----Em Desenvolvimento-----
 <br />
 <br />
 Os seguintes guias ainda precisa comecar a desenvolver:
-<table style="table, td{background-color: blue; }">
+<table>
   <tr>
     <td>Harvest Moon 2 - Game Boy Color</td>
   </tr>
