@@ -3,6 +3,8 @@ article {
   width: 90%;
 }
 
+/***** Class *****/
+
 .div-conteudo img {
   width: 160px;
 }
@@ -29,6 +31,11 @@ article {
 
 .tabela-controle-gba td, th {
   font-size: 1.5em;
+}
+
+.tabela-conteudo td {
+  width: 600px;
+  height: 170px;
 }
 
 .tabela-conteudo td {
