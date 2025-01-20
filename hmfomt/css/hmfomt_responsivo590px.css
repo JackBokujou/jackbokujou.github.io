@@ -1,5 +1,22 @@
+article {
+  max-width: 590px;
+  width: 90%;
+}
+
+.tabela-conteudo {
+  max-width: 590px;
+  width: 99%;
+  float: left;
+}
+
 .div-conteudo img {
-  width: 70%;
+  width: 60%;
+}
+
+.div-conteudo {
+  max-width: 590px;
+  width: 99%;
+  float: left;
 }
 
 #banner-hmfomt {
@@ -15,5 +32,5 @@
 
 /***** MENU *****/
 .menu ul li {
-    font-size: 0.45em;
-  }
+    font-size: 0.4em;
+}
