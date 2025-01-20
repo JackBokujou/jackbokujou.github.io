@@ -85,6 +85,11 @@ header {
 
 /* ID's */
 
+#banner-hmfomt-590px {
+  display: none;
+}
+
+
 #banner-hmfomt {
   max-width: 1920px;
   width: 100%;
