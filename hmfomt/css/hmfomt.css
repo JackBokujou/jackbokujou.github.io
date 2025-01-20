@@ -44,6 +44,10 @@ header {
   display: block;
 }
 
+p {
+  font-size: 15 px;
+}
+
 /* Classes */
 .cor {
   background-color: #06577A;
@@ -54,7 +58,7 @@ header {
   background-color: yellow;
   max-width: 980px;
   font-family: Verdana, Arial, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   margin: 0 auto 0 auto;
   border: 2px solid black;
 }
@@ -72,7 +76,7 @@ header {
   background-color: yellow;
   max-width: 980px;
   font-family: Verdana, Arial, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   margin: 0 auto 0 auto;
   border: 2px solid black;
 }
