@@ -18,11 +18,9 @@ article {
 }
 
 body {
-  background: #B4D55E;
   background-image: linear-gradient(blue, yellow);
   background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
 }
 

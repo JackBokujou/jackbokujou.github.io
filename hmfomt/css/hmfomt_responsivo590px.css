@@ -1,7 +1,19 @@
+.div-conteudo img {
+  width: 70%;
+}
+
+#banner-hmfomt {
+  display: none;
+}
+
 #banner-hmfomt-590px {
+  max-width: 590px;
+  width: 100%;
   display: block;
 }
 
+
+/***** MENU *****/
 .menu ul li {
     font-size: 0.45em;
   }
