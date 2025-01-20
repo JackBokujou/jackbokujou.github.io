@@ -77,6 +77,10 @@ header {
   border: 2px solid black;
 }
 
+.tabela-conteudo td {
+  border: 2px solid black;
+}
+
 .tabela-controle-gba td, th {
   border: 2px solid black;
 }
