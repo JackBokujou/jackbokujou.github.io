@@ -27,6 +27,10 @@ article {
   float: left;
 }
 
+.tabela-controle-gba td, th {
+  font-size: 1.5em;
+}
+
 .tabela-conteudo td {
   max-width: 395px;
   width: 100%;
