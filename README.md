@@ -1,4 +1,5 @@
-<img src="https://i.ibb.co/dsBf9Sds/Jack-Bokujou-Logo-Github-ou-Websites-apenas-logo.png" alt="imagem Logo do Website Jackbokujou no Git" width="320" height="220" />Portal dos guias de Harvest Moon e futuramente Story of Seasons
+![Jack Bokujou Logo - Github ou Websites - apenas logo](https://github.com/user-attachments/assets/28c90511-9915-433f-a6a1-8c265ae6cfd6)
+Portal dos guias de Harvest Moon e futuramente Story of Seasons
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R2X8VD2)
 
 Eu pretendia apenas ter o guia de HMBTN mas acabei fazendo mais guias e resolvi criar um portal para todos os quatro primeiros guias de Harvest Moon! O projeto esta pausado no momento mas os quatro guias que estao no portal estao completos! Pretendo dar um big boost no guia do Harvest Moon N64 acrescentando muitas coisas que tem no livro em PDF feito por um fa. Todos os sites sao responsivos apenas o do N64 precisa melhorar um pouco mas funciona muito bem em Smartphones,o que precisa melhorar sao as imagens apenas mas nada ultrapassa os limites da tela! envie comentarios construtivos e comentem!
