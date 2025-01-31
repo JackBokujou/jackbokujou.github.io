@@ -1,4 +1,5 @@
-![Jack Bokujou Logo - Github ou Websites - apenas logo](https://github.com/user-attachments/assets/28c90511-9915-433f-a6a1-8c265ae6cfd6)
+![Jack Bokujou Logo - Github ou Websites - apenas logo](https://github.com/user-attachments/assets/517c11a2-9eff-4cee-bb3f-aad165abe01f)
+
 Portal dos guias de Harvest Moon e futuramente Story of Seasons
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R2X8VD2)
 
