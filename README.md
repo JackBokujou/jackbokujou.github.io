@@ -37,8 +37,13 @@ daqui: https://fogu.com
 As informacoes contidas no Website Guia de HMBTN foi tirada principalmente deste Website (mais ou menos uns 95%)e de outros como do ushi no tane e outras eu acrescentei:
 https://www.harvestmoonbacktonatureguide.com
 
+Pretendo colocar mais guias quando terminar os que estao faltando no Website JackBokujou. Por favor esperem e podem comentar qual guia voces querem... Eu vi que HMFOMT e o mais pedido por isso estou desenvolvendo ele mas falta uma grande parte.
+
 
 Link para o blog do portal dos Guias JackBokujou/HM Guia:
 https://harvestmoonguiablog.wordpress.com
+
+Link para o Website portal dos guia de JackBokujou:
+https://jackbokujou.github.io
 
 Se alguem quiser e puder doar eu agradeceria muito mesmo! Obrigado mesmo!
