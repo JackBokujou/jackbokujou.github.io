@@ -1,8 +1,15 @@
+/* Harvest Moon Friends of Mineral Town CSS Responsivo na resolucao 1020px */
+
+/* ID */
 #capa-hmfomt {
   max-width: 920px;
   width: 100%;
   margin: 0 auto 0 auto;
   display: block;
+}
+
+#desaparecer_categoria {
+  display: none;
 }
 
 /***** MENU *****/
