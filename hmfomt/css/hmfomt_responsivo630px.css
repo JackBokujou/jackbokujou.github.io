@@ -5,7 +5,7 @@ article {
   width: 90%;
 }
 
-/***** Class *****/
+/***** Classes *****/
 
 .cor {
   display: none;
@@ -57,7 +57,7 @@ article {
 }
 
 #banner-hmfomt-590px {
-  max-width: 590px;
+  max-width: 630px;
   width: 100%;
   display: block;
 }
