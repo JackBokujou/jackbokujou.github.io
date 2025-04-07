@@ -190,6 +190,8 @@ input {
 	font-family: Arial;
 	font-size: 12px;
 	background-position: center;
+	position: relative;
+	right: 35%;
 }
 
 #tabela-parceiros {
