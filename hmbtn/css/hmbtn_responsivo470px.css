@@ -18,7 +18,7 @@ footer {
 	margin-right: 0px;
 	margin-top: 0px;
 	clear: left;
-	background-image: url(imagens/Rodapé - HMGUIABTN.jpg);
+	background-image: url("imagens/Rodapé - HMGUIABTN.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 96px;
 }
@@ -95,7 +95,7 @@ div.rolar a {
 
 .imagem-parceiros {
 	max-width: 95px;
-	width: 100%;
+	width: 90%;
 }
 
 .menu6 {
