@@ -99,7 +99,7 @@ div.rolar a {
 }
 
 .menu6 {
-	background-image: url(imagens/menu5_bg.png);
+	background-image: url("imagens/menu5_bg.png");
 	background-repeat: no-repeat;
 	background-size: 90px 91px;
 	margin-left: 0p;

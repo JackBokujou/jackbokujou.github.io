@@ -196,15 +196,15 @@ input {
 
 #tabela-parceiros {
     margin-right: auto;
-		margin-left: auto;
+	margin-left: auto;
     width: 100%;
-		max-width: 95px;
-		height: 25px;
-		text-align: center;
-		font-family: Arial;
-		font-size: 12px;
-		color: #006600;
-		margin-top: 5px;
+	max-width: 95px;
+	height: 25px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 12px;
+	color: #006600;
+	margin-top: 5px;
 }
 
 #tabela_nova {
