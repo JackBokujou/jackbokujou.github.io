@@ -22,7 +22,7 @@ hmsnes - Harvest Moon - Super Nintendo 1996 - Guia Completo!
 hmfomt - Harvest Moon Friends of Mineral Town - Game Boy Advance/GBA 2003 - -----Em Desenvolvimento-----
 <br />
 <br />
-Os seguintes guias ainda precisam comecar a desenvolver:
+Os seguintes guias aindam precisam comecar a desenvolver:
 <table>
   <tr>
     <td>Harvest Moon 2 - Game Boy Color 1999</td>
