@@ -85,19 +85,16 @@ p {
   border: 2px solid black;
 }
 
-.tabela-conteudo-1 td { /* Tabela sem bordas */
+.tabela-conteudo-1 td, tr { /* Tabela sem bordas */
   border: 0px;
 }
 
-.tabela-conteudo-1 tr { /* Tabela sem bordas */
-  border: 0px;
-}
 
 .tabela-controle-gba td, th {
   border: 2px solid black;
 }
 
-.tabela-sem-bordas tr td {
+.tabela-sem-bordas tr, td {
   border: 0px;
 }
 
