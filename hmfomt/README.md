@@ -1,2 +1,1 @@
-Estou desenvolvendo a pagina de Harvest Moon Friends of Mineral Town! Agora dei uma pausa pois estou um pouco cansado mas em breve continuarei! Estou na "Cidade Mineral" ainda fiz uma pequena parte quem quiser
-conferir pode da uma olhada. As paginas dos bonus dos consoles conectados ja estao feitas! Aproveitem!
+Ja desenvolvi uma boa parte do Website/guia de HMFoMT. Continuarei a desenvolver em quanto ainda tiver tempo para trabalhar nesse guia!
