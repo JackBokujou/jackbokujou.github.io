@@ -1,1 +1,1 @@
-Ja desenvolvi uma boa parte do Website/guia de HMFoMT. Continuarei a desenvolver em quanto ainda tiver tempo para trabalhar nesse guia!
+Ja desenvolvi uma boa parte do Website/guia de HMFoMT. Continuarei a desenvolver enquanto ainda tiver tempo para trabalhar nesse guia!
