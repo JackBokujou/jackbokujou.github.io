@@ -47,7 +47,7 @@ Pretendo colocar mais guias quando terminar os que estao faltando no Website Jac
 Link para o blog do portal dos Guias JackBokujou/HM Guia:
 https://harvestmoonguiablog.wordpress.com
 
-Link para o Website portal dos guia de JackBokujou:
+Link para o Website portal dos guias de JackBokujou:
 https://jackbokujou.github.io
 
 Se alguem quiser e puder doar eu agradeceria muito mesmo! Obrigado mesmo!
